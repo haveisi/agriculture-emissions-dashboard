@@ -1,0 +1,4 @@
+﻿vehicle_id,region,fuel_type,activity_value,activity_unit
+V1,US,diesel_mobile,18000,liters
+V2,US,gasoline_mobile,12000,liters
+V3,US,renewable_diesel,7000,liters

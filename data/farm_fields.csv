@@ -1,0 +1,5 @@
+﻿field_id,farm_id,system_type,crop,area_ha,yield_tonnes
+FLD1,FARM1,conventional,corn,50,420
+FLD2,FARM2,regenerative,corn,45,360
+FLD3,FARM3,conventional,soy,40,110
+FLD4,FARM4,regenerative,soy,38,108

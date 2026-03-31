@@ -1,0 +1,15 @@
+﻿source_key,unit,ef_kgco2e_per_unit
+natural_gas,m3,2
+diesel_stationary,liters,2.68
+biomass,kg,0.1
+diesel_mobile,liters,2.68
+gasoline_mobile,liters,2.31
+renewable_diesel,liters,0.8
+n_fertilizer_kg,kg,6.3
+herbicide_kg,kg,18
+lime_kg,kg,0.44
+compost_kg,kg,0.06
+seed_kg,kg,0.5
+transport_input_tkm,tkm,0.12
+diesel_liters,liters,2.68
+soil_n2o_from_n_input,kgN,4

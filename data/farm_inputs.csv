@@ -1,0 +1,5 @@
+﻿field_id,diesel_liters,n_fertilizer_kg,herbicide_kg,lime_kg,compost_kg,seed_kg,transport_input_tkm,estimated_soc_change_tco2e
+FLD1,1800,9000,120,2500,0,1500,2200,-1.2
+FLD2,1400,2500,25,1500,4000,1400,1800,-8.5
+FLD3,900,3000,60,1200,0,800,1000,-0.5
+FLD4,700,800,10,1000,2500,780,900,-4.2

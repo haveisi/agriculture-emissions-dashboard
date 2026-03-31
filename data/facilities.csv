@@ -1,0 +1,4 @@
+﻿facility_id,facility_name,fuel_type,activity_value,activity_unit
+F1,Plant_A,natural_gas,120000,m3
+F2,Plant_B,diesel_stationary,35000,liters
+F3,Mill_C,biomass,80000,kg
