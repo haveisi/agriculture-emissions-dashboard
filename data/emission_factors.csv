@@ -1,15 +1,22 @@
-﻿source_key,unit,ef_kgco2e_per_unit
-natural_gas,m3,2
-diesel_stationary,liters,2.68
-biomass,kg,0.1
-diesel_mobile,liters,2.68
-gasoline_mobile,liters,2.31
-renewable_diesel,liters,0.8
-n_fertilizer_kg,kg,6.3
-herbicide_kg,kg,18
-lime_kg,kg,0.44
-compost_kg,kg,0.06
-seed_kg,kg,0.5
-transport_input_tkm,tkm,0.12
-diesel_liters,liters,2.68
-soil_n2o_from_n_input,kgN,4
+﻿source_key,unit,ef_kgco2e_per_unit,source,source_year,source_note,confidence_level
+natural_gas,m3,1.9,EPA GHG Emission Factors Hub,2025,stationary combustion,High 
+diesel_stationary,liters,2.68,EPA GHG Emission Factors Hub,2025,stationary combustion,High 
+biomass,kg,0.1,Project placeholder,2025,illustrative only,Low
+diesel_mobile,liters,2.68,EPA GHG Emission Factors Hub,2025,mobile combustion,High 
+gasoline_mobile,liters,2.31,EPA GHG Emission Factors Hub,2025,mobile combustion,High 
+renewable_diesel,liters,0.8,Project placeholder,2025,illustrative only,Medium
+n_fertilizer_kg,kg,6.3,IPCC + literature avg (5–7 range),2025,,High 
+herbicide_kg,kg,18,Project placeholder,2025,illustrative only,Medium
+lime_kg,kg,0.44,IPCC-based placeholder,2025,lime application proxy,High 
+compost_kg,kg,0.06,Project placeholder,2025,illustrative only,Medium
+seed_kg,kg,0.5,Project placeholder,2025,illustrative only,Medium
+transport_input_tkm,tkm,0.11,DEFRA / GREET / literature proxy,2025,upstream transport proxy,High 
+diesel_liters,liters,2.68,EPA GHG Emission Factors Hub,2025,farm diesel use,High 
+soil_n2o_from_n_input,kgN,4,IPCC 2006 + 2019 Refinement,2019,cropland direct N2O proxy,High 
+egrid_RFCE,kg_per_mwh,400,EPA eGRID,2025,location-based electricity factor,High 
+egrid_SRMV,kg_per_mwh,500,EPA eGRID,2025,location-based electricity factor,High 
+egrid_SPNO,kg_per_mwh,600,EPA eGRID,2025,location-based electricity factor,High 
+enteric_dairy_cattle,head,1000,IPCC Tier 1 default (region-agnostic),2025,illustrative enteric emissions,High 
+enteric_beef_cattle,head,700,IPCC Tier 1 default (region-agnostic),2025,illustrative enteric emissions,High 
+manure_liquid_slurry,head,300,IPCC Tier 1 default (region-agnostic),2025,illustrative manure emissions,High 
+manure_dry_lot,head,120,IPCC Tier 1 default (region-agnostic),2025,illustrative manure emissions,High 
