@@ -1,0 +1,5 @@
+scenario,scope1_tco2e,scope2_tco2e,livestock_tco2e,land_use_change_tco2e,conventional_kgco2e_per_tonne,regenerative_kgco2e_per_tonne
+baseline,411.36,1350.0,145.0,-88.2,258.87924528301886,92.1474358974359
+fertilizer_reduction_20,411.36,1350.0,145.0,-88.2,212.2377358490566,77.62179487179488
+regenerative_boost,411.36,1350.0,145.0,-88.2,258.87924528301886,54.89102564102564
+renewable_diesel_shift,394.44,1350.0,145.0,-88.2,258.87924528301886,92.1474358974359

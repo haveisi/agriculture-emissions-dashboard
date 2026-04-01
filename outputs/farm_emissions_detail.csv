@@ -1,0 +1,5 @@
+field_id,farm_id,system_type,crop,area_ha,yield_tonnes,diesel_liters,n_fertilizer_kg,herbicide_kg,lime_kg,compost_kg,seed_kg,transport_input_tkm,estimated_soc_change_tco2e,diesel_kgco2e,fertilizer_prod_kgco2e,herbicide_kgco2e,lime_kgco2e,compost_kgco2e,seed_kgco2e,transport_input_kgco2e,soil_n2o_kgco2e,gross_farm_kgco2e,soc_change_kgco2e_memo,gross_farm_tco2e,kgco2e_per_tonne_crop
+FLD1,FARM1,conventional,corn,50,420,1800.0,9000.0,120.0,2500.0,0.0,1500.0,2200.0,-1.2,4824.0,56700.0,2160.0,1100.0,0.0,750.0,242.0,36000.0,101776.0,-1200.0,101.776,242.32380952380953
+FLD2,FARM2,regenerative,corn,45,360,1400.0,2500.0,25.0,1500.0,4000.0,1400.0,1800.0,-8.5,3752.0,15750.0,450.0,660.0,240.0,700.0,198.0,10000.0,31750.0,-8500.0,31.75,88.19444444444444
+FLD3,FARM3,conventional,soy,40,110,900.0,3000.0,60.0,1200.0,0.0,800.0,1000.0,-0.5,2412.0,18900.0,1080.0,528.0,0.0,400.0,110.0,12000.0,35430.0,-500.0,35.43,322.09090909090907
+FLD4,FARM4,regenerative,soy,38,108,700.0,800.0,10.0,1000.0,2500.0,780.0,900.0,-4.2,1876.0,5040.0,180.0,440.0,150.0,390.0,99.0,3200.0,11375.0,-4200.0,11.375,105.32407407407408

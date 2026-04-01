@@ -1,0 +1,3 @@
+system_type,fields,area_ha,yield_tonnes,gross_farm_kgco2e,soc_change_kgco2e_memo,gross_farm_tco2e,gross_kgco2e_per_tonne,memo_net_tco2e_after_soc
+conventional,2,90,530,137206.0,-1700.0,137.206,258.87924528301886,135.506
+regenerative,2,83,468,43125.0,-12700.0,43.125,92.1474358974359,30.425

@@ -1,0 +1,4 @@
+facility_id,subregion,electricity_mwh,method,source_key,ef_kgco2e_per_unit,kgco2e,emission_source
+F1,RFCE,1200,location_based,egrid_RFCE,400.0,480000.0,scope2_electricity
+F2,SRMV,900,location_based,egrid_SRMV,500.0,450000.0,scope2_electricity
+F3,SPNO,700,location_based,egrid_SPNO,600.0,420000.0,scope2_electricity
