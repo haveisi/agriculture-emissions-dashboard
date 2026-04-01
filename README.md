@@ -4,10 +4,9 @@
 
 Interactive Streamlit dashboard for analyzing agricultural emissions, fertilizer sensitivity, and cost-emissions tradeoffs.
 ## Live Demo
-[Open the dashboard]([https://your-app-name.streamlit.app](https://agriculture-emissions-dashboard-gxcwsmcncuoyhvjwlmcx3a.streamlit.app/))
+[Open the dashboard] (https://agriculture-emissions-dashboard-gxcwsmcncuoyhvjwlmcx3a.streamlit.app/)
 
 ## Features
-
 - Emissions breakdown by scope
 - Fertilizer reduction sensitivity analysis
 - Cost vs emissions tradeoff modeling
