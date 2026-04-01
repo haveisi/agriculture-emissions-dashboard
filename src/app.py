@@ -313,3 +313,4 @@ if show_raw:
     st.dataframe(farm_summary, use_container_width=True)
     st.dataframe(emission_factors, use_container_width=True)
     st.dataframe(farm_inputs, use_container_width=True)
+
