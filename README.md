@@ -1,6 +1,18 @@
 # GHG Accounting Model for Regenerative Agriculture Supply Chains
 
-## Overview
+# Agriculture Emissions Dashboard
+
+Interactive Streamlit dashboard for analyzing agricultural emissions, fertilizer sensitivity, and cost-emissions tradeoffs.
+## Live Demo
+[Open the dashboard]([https://your-app-name.streamlit.app](https://agriculture-emissions-dashboard-gxcwsmcncuoyhvjwlmcx3a.streamlit.app/))
+
+## Features
+
+- Emissions breakdown by scope
+- Fertilizer reduction sensitivity analysis
+- Cost vs emissions tradeoff modeling
+
+  ## Overview
 
 This project implements a Python-based greenhouse gas (GHG) accounting model for agricultural operations and supply chains.
 
