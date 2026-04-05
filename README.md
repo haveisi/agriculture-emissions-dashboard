@@ -183,16 +183,6 @@ ghg_regen/
 
 ---
 
-## Future Improvements
-
-* Replace placeholder emission factors with verified sources (EPA, IPCC)
-* Add Scope 3 (supply chain emissions)
-* Improve livestock and land-use modeling
-* Add interactive dashboards (e.g., Streamlit)
-* Include sensitivity analysis
-
----
-
 ## Author
 
 Developed as part of a portfolio demonstrating:
